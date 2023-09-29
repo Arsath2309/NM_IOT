@@ -1,2 +1,2 @@
 # NM_IOT
-Repository for Naan Mudhalvan Project
+Repository for Naan Mudhalvan Project on IOT
